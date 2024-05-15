@@ -1,0 +1,39 @@
+header {
+    background-image: url("elegant-black-and-gold-banner-background-free-vector.jpg");
+    font-size: 30px;
+    color: white;
+    font-family: "Share Tech Mono", Arial, Helvetica, sans-serif ;
+    text-align: center;
+    padding: 25px 0;
+    background-size: cover;
+    background-position: top;
+}
+
+.LanguageHeading,
+.Tags {
+    font-weight: bold;
+    font-size: 45px;
+    background-color: red; 
+    text-align: center;
+    font-family: "Share Tech Mono", Arial, Helvetica, sans-serif;
+    margin-top: 0;
+}
+
+#table {
+    table-layout: fixed;
+    font-size: 25px;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+    margin: auto;
+
+
+}
+
+td {
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+    width: 33%;
+}
